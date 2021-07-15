@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-ty/forkify.git"
+  },
+  "author": "william-ty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-ty/forkify/issues"
+  },
+  "homepage": "https://github.com/william-ty/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1"
+  },
+  "dependencies": {}
+}
